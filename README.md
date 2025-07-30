@@ -14,9 +14,17 @@ Olá, meu nome é Igor Miranda, tenho 21 anos.Estudo análise e desenvolvimento 
 
 - Email: igorsantosmiranda56@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/igor-miranda-3a4793366/ ![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-miranda-3a4793366%2F)
+- LinkedIn: https://www.linkedin.com/in/igor-miranda-3a4793366/
 
-)
+### Estatísticas:
+<div>
+  <a href="https://github.com/IgorMiranda56">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorMiranda56&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMiranda56&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
+
+
 
 <!--
 **IgorMiranda56/IgorMiranda56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
