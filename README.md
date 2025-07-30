@@ -14,7 +14,8 @@ Olá, meu nome é Igor Miranda, tenho 21 anos.Estudo análise e desenvolvimento 
 
 - Email: igorsantosmiranda56@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/igor-miranda-3a4793366/
+- LinkedIn: https://www.linkedin.com/in/igor-miranda-3a4793366/ ![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-miranda-3a4793366%2F)
+
 <!--
 **IgorMiranda56/IgorMiranda56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
