@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorMiranda56&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800)
-
 ## Igor Miranda 👋
 
 Olá, meu nome é Igor Miranda, tenho 21 anos.Estudo análise e desenvolvimento de sistemas no Senai Dendezeiros, e participo do programa ONE.
